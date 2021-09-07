@@ -1,5 +1,8 @@
 # vue-vuetify-axios
 
+## Descripción
+API utilizada: https://mindicador.cl/api/dolar/[Fecha en formato ddmmyy]
+
 ## Project setup
 ```
 npm install
